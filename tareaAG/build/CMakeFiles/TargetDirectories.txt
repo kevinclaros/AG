@@ -1,0 +1,1 @@
+/home/pavo/Escritorio/tareaAG/build/CMakeFiles/cubo.dir
